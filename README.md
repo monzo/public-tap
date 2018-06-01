@@ -10,7 +10,7 @@ To be able to install things, you'll need to run:
 
 
 ```shell
-$ brew tap monzo/tap https://github.com/monzo/public-tap.git
+$ brew tap monzo/public-tap https://github.com/monzo/public-tap.git
 ```
 
 To see all the things you can install, do:
