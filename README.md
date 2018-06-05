@@ -1,6 +1,6 @@
 # 🍺 `monzo/tap`
 
-This Homebrew [Tap](http://docs.brew.sh/brew-tap.html) contains formulae for **publicly visible** Monzo tools.
+This Homebrew [Tap](https://docs.brew.sh/Taps) contains formulae for **publicly visible** Monzo tools.
 
 If you make a tool to use locally, please make a formula for it so others can install it easily. 😇
 
